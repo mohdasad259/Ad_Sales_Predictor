@@ -365,12 +365,3 @@ with col2:
     """, unsafe_allow_html=True)
 
     st.markdown('</div>', unsafe_allow_html=True)
-
-# ==============================
-# Footer
-# ==============================
-st.markdown("""
-<div class='footer-text'>
-    ✦ &nbsp; CHAMKEELA DASHBOARD &nbsp; ✦ &nbsp; RIDGE REGRESSION MODEL &nbsp; ✦ &nbsp; ML POWERED &nbsp; ✦
-</div>
-""", unsafe_allow_html=True)
